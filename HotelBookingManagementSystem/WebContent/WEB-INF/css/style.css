@@ -1,0 +1,18 @@
+body{
+	background-color:#8ee1f0;
+	background-image: url("images/background1.jpg");
+	text-align: center;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	font-family: Calibri, Myriad;
+}
+.required {color: red;}
+
+table, th, td {
+	padding: 20px;
+	border-collapse: collapse;
+  	border: 1px solid black;
+}
+h1{ color: #400080;}
+h3{color: #800040;}
